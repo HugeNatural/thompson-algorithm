@@ -1,4 +1,4 @@
-## thompson算法
+## thompson算法实现正则表达式
 
   c Matches any literal character   
   . Matches a single character   
